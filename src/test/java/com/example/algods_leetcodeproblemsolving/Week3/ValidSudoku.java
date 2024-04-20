@@ -1,4 +1,4 @@
-package com.example.algods_leetcodeproblemsolving;
+package com.example.algods_leetcodeproblemsolving.Week3;
 
 import java.util.HashSet;
 import java.util.Set;

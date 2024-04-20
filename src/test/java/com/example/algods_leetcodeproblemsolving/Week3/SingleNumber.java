@@ -1,4 +1,4 @@
-package com.example.algods_leetcodeproblemsolving;
+package com.example.algods_leetcodeproblemsolving.Week3;
 
 public class SingleNumber {
     public int singleNumber(int[] nums) {
